@@ -27,9 +27,9 @@ goto "about:addons"
 Click settings and "install addons from file.." and goto hackbar file and install 
 ![](https://github.com/PhHitachi/Hackbar/blob/master/img/install-from-files.png)
 
-Releases
+[Releases](https://github.com/hac4allofficial/Elite-Hackbar/releases)
 
-- [Elite HackBar v1](https://www.mediafire.com/file/a3il7wv77ck5gu9/Elite-Hackbar_v1.xpi/file)
-- [Elite HackBar v2](https://www.mediafire.com/file/w1162vl7hd0147i/Elite_Hackbar-Pro-v2.xpi/file)
-- [Elite HackBar v3](https://www.mediafire.com/file/pji4ary5qo6prnv/Elite_Hackbar-Pro-v3.xpi/file)
-- [Elite HackBar v4](https://www.mediafire.com/file/uhn4szb9o5luuuv/Elite_Hackbar-Pro-v4.xpi/file) `latest`
+- [Elite HackBar v1](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite-Hackbar_v1.xpi)
+- [Elite HackBar v2](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v2.xpi)
+- [Elite HackBar v3](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v3.xpi)
+- [Elite HackBar v4](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v4.xpi) `latest`
