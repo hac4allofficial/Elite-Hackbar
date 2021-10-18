@@ -1,5 +1,6 @@
-# HackBar For firefox add-ons
+# Elite HackBar For firefox add-ons
 
+![](https://i.postimg.cc/y6gWs8zs/Untitled-design.png)
 
 ### Description
 
